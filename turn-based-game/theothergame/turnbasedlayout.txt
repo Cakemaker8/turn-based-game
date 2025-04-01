@@ -1,0 +1,84 @@
+General mechanics:
+ - Once the boss is dead, the map is won
+ - Once a player is dead, it cannot be revived (but will be back in the next map)
+ - At the end of every round, the hidden player will do something either good or bad, with lesser odds at the start, and more often towards the end
+ - Magic can be used to heal or damage
+ - Hard modes will involve friendly fire, and player remaining dead for the rest of the game
+ - Multiplayer will allow for someone else to control hidden player
+ - Special game modes will involve playing as the hidden player, and a multiplayer battle royale
+
+Cutscene: show the player characters, and FINISH
+
+Blue: ocean area
+ - introduction-like area, with water blocking different paths, and the boss will be in its own ring surrounded by seashells
+ - boss will be FINISH
+ - enemies will be basic and magic
+
+Cutscene: FINISH
+
+Green: grass area
+ - introduction-like area, with bushes for evasiveness, and a bridge, with the boss on the other side
+ - boss will be FINISH
+ - enemies will be basic, stealth, magic, and basic w/helmet
+
+Cutscene: FINISH
+
+Pink: cherry blossom area
+ - FINISH
+ - boss will be FINISH
+ - enemies will be basic, basic w/helmet, magic, magic w/shield, and stealth
+
+Cutscene: FINISH
+
+Light blue: ice area
+ - FINISH
+ - boss will be FINISH
+ - enemies will be basic w/double, basic w/helmet, magic w/shield, and stealth w/ward
+
+Cutscene: FINISH
+
+Orange: fire area
+ - FINISH
+ - boss will be FINISH
+ - enemies will be basic w/double and helmet, magic w/double, magic w/shield, and stealth w/ward
+
+Cutscene: FINISH
+
+Purple: temple area
+ - FINISH
+ - boss will be FINISH
+ - enemies will be basic w/double and helmet, magic w/shield, stealth w/double, and stealth w/ward
+
+Cutscene: FINISH
+
+Red: electricity area
+ - FINISH
+ - boss will be FINISH
+ - enemies will be basic w/double and helmet, magic w/shield and double, and stealth w/double
+
+Cutscene: shows the players riding electricity towards the sky, then 8, no, 9 thrones in the sky
+
+Yellow: radiant area
+ - glorious arena with the 9 thrones in the background, pillars for obstacles and clouds for evasion
+ - no boss, but hidden player will be doing a lot
+ - enemies will be basic w/double and helmet, magic w/shield and double, and stealth w/double and ward
+
+Cutscene: FINISH
+
+Hidden: FINISH
+ - fight the hidden character in the same arena as radiant, but smaller
+ - FINISH
+
+Cutscene: if no one survived the last fight, the hidden player will be on the middle throne with the side thrones destroyed; if hidden player was defeated, the middle throne will be destroyed and the players on the side thrones
+
+Future playthroughs will depend on ending (hidden player will either have 8 times higher chance of doing something, or the normal, and the final fight may involve 1 or 8 characters)
+
+
+Enemies:
+ - Basic: always tries to hit the closest player, avg damage, avg health, avg evasiveness
+ - Stealth: hits the player with the least health, high damage, low health, high evasiveness
+ - Magic: hits player furthest away, high damage, low health, low evasiveness
+ - Helmet variations: player cannot melee
+ - Shield variations: player cannot ranged
+ - Ward variations: player cannot magic
+ - Double attack: will attack twice in one turn (can do more for later levels)

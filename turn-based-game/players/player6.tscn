@@ -1,0 +1,38 @@
+[gd_scene load_steps=6 format=3 uid="uid://csk234ado0wto"]
+
+[ext_resource type="Script" path="res://players/player_6.gd" id="1_bc0x7"]
+[ext_resource type="Texture2D" uid="uid://6spxaviurkrq" path="res://players.png" id="2_rvgkd"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_djgti"]
+size = Vector2(16, 16)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_m6n1v"]
+atlas = ExtResource("2_rvgkd")
+region = Rect2(80, 0, 16, 16)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_ecrjv"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_m6n1v")
+}],
+"loop": true,
+"name": &"default",
+"speed": 5.0
+}]
+
+[node name="player6" type="CharacterBody2D"]
+script = ExtResource("1_bc0x7")
+
+[node name="collision" type="CollisionShape2D" parent="."]
+shape = SubResource("RectangleShape2D_djgti")
+
+[node name="animation" type="AnimatedSprite2D" parent="."]
+sprite_frames = SubResource("SpriteFrames_ecrjv")
+
+[node name="ui" type="Control" parent="."]
+visible = false
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
